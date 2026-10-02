@@ -25,3 +25,4 @@ Example: `arrays/0001-two-sum/approach-2/code.cpp`
 | # | Problem | Topic | Difficulty | Approaches | Best complexity |
 |---|---------|-------|------------|------------|-----------------|
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [bit-manipulation](bit-manipulation/0268-missing-number) | Easy | 2 | O(n) time, O(1) space |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [backtracking](backtracking/0022-generate-parentheses) | Medium | 3 | O(4^n / √n · n) time, O(n) extra space |
