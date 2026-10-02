@@ -24,3 +24,4 @@ Example: `arrays/0001-two-sum/approach-2/code.cpp`
 
 | # | Problem | Topic | Difficulty | Approaches | Best complexity |
 |---|---------|-------|------------|------------|-----------------|
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [bit-manipulation](bit-manipulation/0268-missing-number) | Easy | 2 | O(n) time, O(1) space |
